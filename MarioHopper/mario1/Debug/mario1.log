@@ -1,0 +1,17 @@
+﻿Build started 8/20/2016 11:41:51 PM.
+     1>Project "C:\Users\User\Documents\Visual Studio 2010\Projects\mario1\mario1\mario1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mario1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         mario1.vcxproj -> C:\Users\User\Documents\Visual Studio 2010\Projects\mario1\Debug\mario1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\mario1.unsuccessfulbuild".
+         Touching "Debug\mario1.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Documents\Visual Studio 2010\Projects\mario1\mario1\mario1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
